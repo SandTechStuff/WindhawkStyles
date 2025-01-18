@@ -1,0 +1,11 @@
+{
+	"controlStyles[0].target": "MtcUvc.View.VolumeSlider",
+	"controlStyles[0].styles[0]": "FocusVisualPrimaryThickness=0",
+	"controlStyles[0].styles[1]": "FocusVisualSecondaryThickness=0",
+	"controlStyles[1].target": "Windows.UI.Xaml.Controls.HyperlinkButton",
+	"controlStyles[1].styles[0]": "FocusVisualPrimaryThickness=0",
+	"controlStyles[1].styles[1]": "FocusVisualSecondaryThickness=0",
+	"controlStyles[2].target": "Windows.UI.Xaml.Controls.Grid#SliderContainer",
+	"controlStyles[2].styles[0]": "FocusVisualPrimaryThickness=0",
+	"controlStyles[2].styles[1]": "FocusVisualSecondaryThickness=0"
+}
