@@ -1,6 +1,6 @@
 # WindhawkStyles
 
-A collection of my miscellaneous Windhawk styler mod styles.
+A collection of my miscellaneous Windhawk styler mod styles that are either too small or too niche to be themes.
 
 ## 10FlyoutFix
 
