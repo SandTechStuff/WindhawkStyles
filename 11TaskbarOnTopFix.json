@@ -1,0 +1,6 @@
+{
+	"controlStyles[0].target": "Taskbar.TaskListButton#TaskListButton",
+	"controlStyles[0].styles[0]": "Transform3D:=<CompositeTransform3D RotationZ=\"180\" TranslateX=\"45\" TranslateY=\"48\" />",
+	"controlStyles[1].target": "Taskbar.TaskListButton#TaskListButton > Taskbar.TaskListLabeledButtonPanel > Windows.UI.Xaml.Controls.Image#Icon",
+	"controlStyles[1].styles[0]": "Transform3D:=<CompositeTransform3D RotationZ=\"180\" TranslateY=\"24\" TranslateX=\"24\"/>"
+}
