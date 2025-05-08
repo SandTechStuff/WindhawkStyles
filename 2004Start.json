@@ -1,0 +1,17 @@
+{
+	"controlStyles[0].target": "Windows.UI.Xaml.Controls.Border#LogoBackgroundPlate",
+	"controlStyles[0].styles[0]": "Background:=<SolidColorBrush Color=\"{ThemeResource SystemAccentColor}\" />",
+	"controlStyles[0].styles[1]": "Width=32",
+	"controlStyles[0].styles[2]": "Height=32",
+	"controlStyles[1].target": "Windows.UI.Xaml.Controls.Button#Header > Windows.UI.Xaml.Controls.Border > Windows.UI.Xaml.Controls.TextBlock",
+	"controlStyles[1].styles[0]": "HorizontalAlignment=0",
+	"controlStyles[2].target": "StartUI.TileViewControl > Windows.UI.Xaml.Controls.Grid",
+	"controlStyles[2].styles[0]": "Background:=<SolidColorBrush Color=\"{ThemeResource SystemAccentColor}\" />",
+	"controlStyles[3].target": "Windows.UI.Xaml.Controls.TextBlock",
+	"controlStyles[3].styles[0]": "FontFamily=Segoe UI, Segoe MDL2 Assets",
+	"controlStyles[4].target": "Windows.UI.Xaml.Controls.FontIcon > Windows.UI.Xaml.Controls.Grid > Windows.UI.Xaml.Controls.TextBlock",
+	"controlStyles[4].styles[0]": "FontFamily=Segoe MDL2 Assets, Segoe UI",
+	"controlStyles[0].styles[3]": "Padding=4",
+	"controlStyles[0].styles[4]": "Margin=4,2,0,2",
+	"controlStyles[1].styles[1]": "Margin=2,0,0,0"
+}
