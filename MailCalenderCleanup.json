@@ -1,0 +1,14 @@
+{
+	"controlStyles[0].target": "Office.UI.Xaml.Core.Button#PromotionButton",
+	"controlStyles[0].styles[0]": "Visibility=Collapsed",
+	"controlStyles[1].target": "Office.UI.Xaml.Core.Button > Grid > Border",
+	"controlStyles[1].styles[0]": "CornerRadius=0",
+	"controlStyles[1].styles[1]": "BorderBrush:=<RevealBorderBrush Color=\"Transparent\" TargetTheme=\"1\" Opacity=\"1\" />",
+	"controlStyles[1].styles[2]": "BorderThickness=1",
+	"controlStyles[2].target": "Office.UI.Xaml.Core.Button#PeopleSwitchButton",
+	"controlStyles[2].styles[0]": "Visibility=Collapsed",
+	"controlStyles[3].target": "Office.UI.Xaml.Core.Button#ToDoSwitchButton",
+	"controlStyles[3].styles[0]": "Visibility=Collapsed",
+	"controlStyles[4].target": "Windows.UI.Xaml.Controls.Border#MailCalendarSwitchIconBorder",
+	"controlStyles[4].styles[0]": "CornerRadius=0"
+}
