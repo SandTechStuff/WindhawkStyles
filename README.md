@@ -45,3 +45,5 @@ Reverses the direction of the Windows 10 Start Menu's navigation pane, so common
 [_Groove Music Styler_](mods/groove-music-styler.wh.cpp)
 
 Removes the Spotify ad and the Sign In button from the bottom of the nav pane.
+
+![GrooveMusicCleanup](screenshots/GrooveMusicCleanup.png)
