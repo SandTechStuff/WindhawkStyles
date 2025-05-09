@@ -1,0 +1,6 @@
+{
+	"controlStyles[0].target": "Windows.UI.Xaml.Controls.Button#SecondaryPivotButton",
+	"controlStyles[0].styles[0]": "Visibility=Collapsed",
+	"controlStyles[1].target": "MS.Entertainment.Controls.MeControl#MeControl",
+	"controlStyles[1].styles[0]": "Visibility=Collapsed"
+}

@@ -29,7 +29,7 @@ Restores colored tiles and text margins on the Windows 10 Start Menu, last seen 
 ## MailCalenderCleanup
 [_Mail and Calender Styler_](mods/mail-and-calender-styler.wh.cpp)
 
-Cleans up the buttons on the bottom of the navpane and removes the Outlook ad, people button, and to-do button.
+Cleans up the buttons on the bottom of the nav pane and removes the Outlook ad, people button, and to-do button.
 
 ![MailCalenderCleanup](screenshots/MailCalenderCleanup.png)
 
@@ -40,3 +40,8 @@ _Start Menu Styler_
 Reverses the direction of the Windows 10 Start Menu's navigation pane, so commonly used buttons are at the top. This is convenient when the taskbar is aligned to the left or top, as your mouse needs to travel less distance to reach the buttons.
 
 ![FlippedNavPane](screenshots/FlippedNavPane.png)
+
+## GrooveMusicCleanup
+[_Groove Music Styler_](mods/groove-music-styler.wh.cpp)
+
+Removes the Spotify ad and the Sign In button from the bottom of the nav pane.
