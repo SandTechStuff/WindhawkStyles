@@ -8,6 +8,8 @@ _Notification Center Styler_
 
 Removes the white focus outlines and restores the Windows 10 fonts when using the Windows 10 tray flyouts on Windows 11.
 
+![10FlyoutFix](screenshots/10FlyoutFix.png)
+
 ## 11TaskbarOnTopFix
 
 _Taskbar Styler_
@@ -20,9 +22,13 @@ _Start Menu Styler_
 
 Restores colored tiles and text margins on the Windows 10 Start Menu, last seen in version 2004. Only applies accent color as getting icons' dominant color is not possible with the styler mods. Mainly for Windows 11 with the 10 Start menu, as Windows 10 has a better alternative.
 
+![2004Start](screenshots/2004Start.png)
+
 <sub>_Original implementation by [Tails](https://github.com/milestprower92)._</sub>
 
 ## MailCalenderCleanup
 [_Mail and Calender Styler_](mods/mail-and-calender-styler.wh.cpp)
 
 Cleans up the buttons on the bottom of the navpane and removes the Outlook ad, people button, and to-do button.
+
+![MailCalenderCleanup](screenshots/MailCalenderCleanup.png)
