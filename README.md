@@ -20,7 +20,7 @@ _Start Menu Styler_
 
 Restores colored tiles and text margins on the Windows 10 Start Menu, last seen in version 2004. Only applies accent color as getting icons' dominant color is not possible with the styler mods. Mainly for Windows 11 with the 10 Start menu, as Windows 10 has a better alternative.
 
-<sub>_Original implementation by Tails._</sub>
+<sub>_Original implementation by [Tails](https://github.com/milestprower92)._</sub>
 
 ## MailCalenderCleanup
 [_Mail and Calender Styler_](mods/mail-and-calender-styler.wh.cpp)
