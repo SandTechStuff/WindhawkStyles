@@ -1,0 +1,16 @@
+{
+	"controlStyles[0].target": "StartUI.AppListView#NavigationPanePlacesListView",
+	"controlStyles[0].styles[0]": "Grid.Row=1",
+	"controlStyles[0].styles[1]": "VerticalAlignment=3",
+	"controlStyles[1].styles[1]": "VerticalAlignment=0",
+	"controlStyles[1].target": "StartUI.UserTileView#UserTile",
+	"controlStyles[1].styles[0]": "Grid.Row=2",
+	"controlStyles[2].target": "StartUI.ExpandCollapseButton",
+	"controlStyles[2].styles[0]": "Grid.Row=4",
+	"controlStyles[3].target": "StartUI.PowerOptionsView",
+	"controlStyles[3].styles[0]": "Grid.Row=0",
+	"controlStyles[4].target": "Windows.UI.Xaml.Controls.TextBlock",
+	"controlStyles[4].styles[0]": "FontFamily=Segoe UI, Segoe MDL2 Assets",
+	"controlStyles[5].target": "Windows.UI.Xaml.Controls.FontIcon > Windows.UI.Xaml.Controls.Grid > Windows.UI.Xaml.Controls.TextBlock",
+	"controlStyles[5].styles[0]": "FontFamily=Segoe MDL2 Assets, Segoe UI"
+}
